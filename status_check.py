@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Dec 12 12:04:36 2020
-
-@author: Mahan
-
 Website Status Checker
 
 Main fuction modified from "Python 3 - Command Line Arguments" obtained "from https://www.tutorialspoint.com/python3/python_command_line_arguments.htm"
